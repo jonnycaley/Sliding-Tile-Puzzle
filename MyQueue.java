@@ -16,7 +16,7 @@ public class MyQueue extends JFrame{
         System.out.println("Enter the First Row Middle Left number of the start grid");
         String b = reader.nextLine();
 
-        System.out.println("Enter the First Row Middle Right number of the start grid");      /////
+        System.out.println("Enter the First Row Middle Right number of the start grid");      
         String newTopLeftMiddle = reader.nextLine();
 
         System.out.println("Enter the First Row Right number of the start grid");
@@ -28,7 +28,7 @@ public class MyQueue extends JFrame{
         System.out.println("Enter the Second Row Middle Left number of the start grid");
         String e = reader.nextLine();
 
-        System.out.println("Enter the Second Row Middle Right number of the start grid");    /////
+        System.out.println("Enter the Second Row Middle Right number of the start grid");    
         String newStartSecondRow = reader.nextLine();
 
         System.out.println("Enter the Second Row Right number of the start grid");
@@ -56,7 +56,7 @@ public class MyQueue extends JFrame{
         System.out.println("Enter the Fourth Row Bottom Middle-Left number of the start grid");
         String h = reader.nextLine();
 
-        System.out.println("Enter the Fourth Row Bottom Middle-Right number of the start grid");   /////
+        System.out.println("Enter the Fourth Row Bottom Middle-Right number of the start grid");   
         String new4thRowMiddleRight = reader.nextLine();
 
         System.out.println("Enter the Fourth Row Bottom Right number of the start grid");
@@ -71,7 +71,7 @@ public class MyQueue extends JFrame{
         System.out.println("Enter the First Row Left-Middle number of the desired grid");
         String m = reader.nextLine();
 
-        System.out.println("Enter the First Row Right-Middle number of the desired grid");          /////
+        System.out.println("Enter the First Row Right-Middle number of the desired grid");          
         String newDesiredTopMiddle = reader.nextLine();
 
         System.out.println("Enter the First Row Top Right number of the desired grid");
@@ -83,7 +83,7 @@ public class MyQueue extends JFrame{
         System.out.println("Enter the Second Row Middle-Left number of the desired grid");
         String p = reader.nextLine();
 
-        System.out.println("Enter the Second Row Middle-Right number of the desired grid");         /////
+        System.out.println("Enter the Second Row Middle-Right number of the desired grid");         
         String newDesiredSecondRow = reader.nextLine();
 
         System.out.println("Enter the Second Row Right number of the desired grid");
@@ -111,7 +111,7 @@ public class MyQueue extends JFrame{
         System.out.println("Enter the 4th Row Middle-Left number of the desired grid");
         String s = reader.nextLine();
 
-        System.out.println("Enter the 4th Row Middle-Right number of the desired grid");       /////
+        System.out.println("Enter the 4th Row Middle-Right number of the desired grid");       
         String newDesired4thRow = reader.nextLine();
 
         System.out.println("Enter the 4th Row Right number of the desired grid");
