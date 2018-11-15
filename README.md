@@ -1,5 +1,5 @@
 # Sliding-Tile-Puzzle
-Second year university module coursework: AI Methods
+University module coursework: AI Methods
 
 Result: 87%
 
