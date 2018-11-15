@@ -1,5 +1,6 @@
 # Sliding-Tile-Puzzle
 Second year university module coursework: AI Methods
+
 Result: 87%
 
 A programme written in Java to solve the 16 sliding tile puzzle
